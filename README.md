@@ -16,7 +16,7 @@
 - Моя страничка вконтакте: 
 [maa_romanova](https://vk.com/maa_romanova)
 - Конечно же не представляю своей жизни без инстаграмма
-[__m.romanova__](https://www.instagram.com/__m.romanova__/)
+<https://www.instagram.com/__m.romanova__/>
 
 4. У меня не так много увлечений, так как я уделяю много времени учебе.
 <br> Вот неоторые из них:
